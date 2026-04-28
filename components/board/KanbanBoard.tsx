@@ -205,7 +205,7 @@ export default function KanbanBoard({ userId }: { userId: string }) {
                 key={col.id} column={col}
                 cards={cards.filter(c => c.column_id === col.id)}
                 onAddCard={() => { setAddToCol(col.id); setEditCard(null); setModalOpen(true); }}
-                onEditCard={(card) => { setEditCard(card); setModalOpen(true); }}
+                onEditCard={(card:any) => { setEditCard(card); setModalOpen(true); }}
                 onDeleteCard={deleteCard}
                 onRenameColumn={updateColumn}
                 onDeleteColumn={deleteColumn}
