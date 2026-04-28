@@ -79,4 +79,3 @@ npm install
 # Geliştirme ortamını başlatın
 npm run dev
 
-Hazırlayan: Leyla Shikhzaman | Staj Başvurusu | 2026
