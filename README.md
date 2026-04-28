@@ -1,4 +1,5 @@
-FlowBoard — Kanban Proje Yönetim Uygulaması
+# FlowBoard — Kanban Proje Yönetim Uygulaması
+
 Next.js 14, Supabase ve dnd-kit kullanılarak geliştirilmiş, gerçek zamanlı veri senkronizasyonuna sahip görev yönetim sistemidir.
 
 Proje Bağlantıları
