@@ -18,7 +18,7 @@ export default function LoginPage() {
     if (isRegister) {
       const { error } = await supabase.auth.signUp({ email, password });
       if (error) setError(error.message);
-      else setError("E-posta adresinizi doğrulayın!");
+      else setError("Şimdi giriş yapabilirsiniz!");
     } else {
       const { error } = await supabase.auth.signInWithPassword({ email, password });
       if (error) setError("E-posta veya şifre hatalı.");
