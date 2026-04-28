@@ -1,8 +1,7 @@
 # FlowBoard — Kanban Proje Yönetim Uygulaması
-
 Next.js 14, Supabase ve dnd-kit kullanılarak geliştirilmiş, gerçek zamanlı veri senkronizasyonuna sahip görev yönetim sistemidir.
 
-Proje Bağlantıları
+# Proje Bağlantıları
 Canlı Uygulama: https://kanban-app.vercel.app
 
 Kaynak Kod: https://github.com/leylashikhzaman/kanban-app
@@ -71,13 +70,13 @@ Etiket Sistemi: Geliştirme, Tamamlandı, Bekliyor ve Acil durum etiketleri.
 
 Yerel Kurulum
 Bash
-Depoyu klonlayın
+# Depoyu klonlayın
 git clone https://github.com/leylashikhzaman/kanban-app.git
 
-Bağımlılıkları yükleyin
+# Bağımlılıkları yükleyin
 npm install
 
-Geliştirme ortamını başlatın
+# Geliştirme ortamını başlatın
 npm run dev
 
 Hazırlayan: Leyla Shikhzaman | Staj Başvurusu | 2026
