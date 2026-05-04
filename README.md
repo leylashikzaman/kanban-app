@@ -2,7 +2,7 @@
 Next.js 14, Supabase ve dnd-kit kullanılarak geliştirilmiş, gerçek zamanlı veri senkronizasyonuna sahip görev yönetim sistemidir.
 
 # Proje Bağlantıları
-Canlı Uygulama: https://kanban-app.vercel.app
+Canlı Uygulama: https://kanban-app-one-mu.vercel.app/
 
 Kaynak Kod: https://github.com/leylashikhzaman/kanban-app
 
